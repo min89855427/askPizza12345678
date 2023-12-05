@@ -1,1 +1,1 @@
-Posts AND links
+ALL posts WITH links
