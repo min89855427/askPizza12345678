@@ -1,5 +1,5 @@
-Tom Lehman (The Dough Doctor) posts from the internet
+Tom Lehman (The Dough Doctor) posts from the internet in the following format
 
-- PDF file format
-- TXT file format
-- DOCX file format
+- Printable Document Feeder (PDF) 
+- Text File (TXT) 
+- Office Open XML (DOCX)
