@@ -1,2 +1,2 @@
 # pizzaBot
-Data for pizza bot
+Data for pizza bot (chatgpt)
