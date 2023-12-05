@@ -1,1 +1,0 @@
-ALL posts NO links
