@@ -1,1 +1,1 @@
-Posts, No links
+ALL posts NO links
