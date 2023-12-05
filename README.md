@@ -1,11 +1,4 @@
-# pizzaBot
-Data for pizza bot (chatgpt)
-
-
-
-
-
-
+# Data for pizza bot (chatgpt)
 
 Copyright (c) <year> <copyright holders>
 
