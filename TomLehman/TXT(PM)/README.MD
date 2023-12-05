@@ -1,4 +1,4 @@
 # Tom Leman posts (from pizzamaking.com) in Text File
 
-- noLink.txt (just the posts)
-- withLink.txt (posts with links)
+- noLink.txt (ALL posts WIHTOUT links)
+- withLink.txt (ALL posts WITH links)
