@@ -1,1 +1,1 @@
-Tom Lehman posts on pizzamaking.com
+Tom Lehman posts (from pizzamaking.com) in PDF form
