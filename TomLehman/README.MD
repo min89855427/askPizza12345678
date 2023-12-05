@@ -1,4 +1,4 @@
-# Tom Lehman (The Dough Doctor) posts from the internet in the following format
+#Tom Lehman (The Dough Doctor) posts from the internet in the following format
 
 - Printable Document Feeder (PDF) 
 - Text File (TXT) 
