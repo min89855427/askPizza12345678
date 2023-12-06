@@ -1,4 +1,4 @@
-# Tom Lehmann posts from PizzaMakingDotCom in PDF form divided into smaller files.
+# Tom Lehmann (from PizzaMakingDotCom) in small PDF files.
 
 - withLinkPart1-4.pdf (ALL posts WITH Links, part 1 of 4)
 - withLinkPart2-4.pdf (ALL posts WITH Links, part 2 of 4)
