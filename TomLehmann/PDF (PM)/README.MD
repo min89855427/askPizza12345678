@@ -2,5 +2,5 @@
 
 PDF divided into smaller files available in "smallerFiles" folder
 
-- withLink.pdf (ALL posts WITH Links)
+- withLink.pdf (ALL posts WITH question Link)
 
