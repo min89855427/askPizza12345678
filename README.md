@@ -1,4 +1,4 @@
-# Data for pizza bot (chatgpt)
+# Data for Min's pizza bot
 
 Copyright (c) <year> <copyright holders>
 
