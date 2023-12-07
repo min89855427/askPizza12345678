@@ -1,6 +1,8 @@
 # Pizza database for chatgpt (sourced by Min)
 
-Custom database of pizza posts (made by Tom "Dough Doctor" Lehmann) for chatgpt use. Used to solve pizza problems.
+Custom database of pizza posts for chatgpt. Using personal data in chagpt to solve pizza problems.
+
+TomLehmann - The Dough Doctor, former AIB employee. 
 
 MIT License.
 
