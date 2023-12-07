@@ -1,4 +1,4 @@
-# Tom Lehman (The Dough Doctor) posts 
+# Pizza related posts from Tom Lehman (The Dough Doctor) 
 
 Available in the following formats
 
