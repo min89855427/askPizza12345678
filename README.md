@@ -1,14 +1,14 @@
-# Pizza database for chatgpt (sourced by Min)
+# Pizza database for ChatGPT (sourced by Min)
 
-Custom database of pizza posts for chatgpt. Using personal data in chagpt to solve pizza problems.
+Database made from pizza posts. Use in ChatGPT to solve problems/issues/questions regarding the pizza making process.
 
-TomLehmann - The Dough Doctor, former AIB employee. 
-
-MIT License.
-
-If you dont know how to load personal data using chatgpt, please google 
+If you dont know how to use personal data using Chatgpt, please google 
 "Using chatgpt with your own database",
 "chat pdf", 
 "chatgpt txt", 
 "chatgpt docunets", 
 etc. 
+
+MIT License.
+
+/TomLehmann (From the Dough Doctor, former AIB employee.) 
