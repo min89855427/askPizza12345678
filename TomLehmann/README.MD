@@ -1,7 +1,5 @@
 # Pizza related posts from Tom Lehmann (The Dough Doctor) 
 
-**Latest Verison 3**
-
 Data available in the following formats
 
 - PDF(PM) - Printable Document Feeder (PDF) 
