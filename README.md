@@ -1,4 +1,4 @@
-# Pizza database for ChatGPT (sourced by Min, in .PDF, .TXT, .DOCX)
+# Pizza database for ChatGPT by Min (in .PDF, .TXT, .DOCX)
 
 Database made from pizza posts. Use in ChatGPT to solve problems/issues/questions regarding the pizza making process. 
 
