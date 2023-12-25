@@ -1,6 +1,4 @@
-Version 3
-
-Tom Lehmann posts on pizzamaking.com
+Tom Lehmann posts from pizzamaking.com
 
 with2Both.pdf 
 - All questions, Link to forum, Link to question, Question
