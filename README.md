@@ -9,6 +9,7 @@ If you dont know how to use personal data using ChatGPT, please google
 "chatgpt docunets", 
 etc. 
 
-MIT License.
+Tom Lehmann (The Dough Doctor, https://doughdoctor.com/index.html) was a former AIB employee with over 50 years in the baking industry. 
+
 
 
