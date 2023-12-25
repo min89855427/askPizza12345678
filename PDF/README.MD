@@ -1,4 +1,4 @@
-Tom Lehmann posts from pizzamaking.com
+Tom Lehmann (The Dough Doctor, former AIB employee) posts from pizzamaking.com
 
 **with2Both.pdf** 
 - All questions, Link to forum, Link to question, Question
