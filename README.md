@@ -3,7 +3,12 @@
 Database of Tom Lehmann pizza posts. 
 
 ### Future Plans
-Feed Database in ChatGPT to solve pizza problems/issues/questions. If you dont know how to use personal data using ChatGPT, please google 
+Feed data in ChatGPT to solve pizza problems/issues/questions. 
+
+001-2023:
+Tested pdf files on free version textcortex. Promising but not perfect. 
+
+If you dont know how to use personal data using ChatGPT, please google 
 "Using chatgpt with your own database",
 "chat pdf", 
 "chatgpt txt", 
